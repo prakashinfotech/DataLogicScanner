@@ -4,6 +4,7 @@ Datalogic is a global technology leader in the automatic data capture and proces
 
 
 In this example we have below API integration
+
 -- Decode Listener
 -- Decode Config SampleAPI
 -- Decode SampleAPI
